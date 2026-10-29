@@ -11,4 +11,4 @@ clear
 
 // git pusb origin main 
 
-hello world
+git status
